@@ -27,7 +27,7 @@ export function defaultContainerTemplate<P>({ uid, frame, prerenderFrame, doc, p
         style.appendChild(doc.createTextNode(`
             #${ uid } {
                 display: inline-block;
-                position: relative;
+                position: static;
                 width: ${ width };
                 height: ${ height };
             }
