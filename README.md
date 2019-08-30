@@ -2,6 +2,8 @@
 
 ----
 
+This fork is a style change from vanilla Zoid. It allows the zoid component being rendered to fill the entire screen i.e. creating the effect of a modal for the purpose of a third party to allow Parsli login on their site
+
 A cross-domain component toolkit, supporting:
 
 - Render an iframe or popup on a different domain, and pass down props, including objects and functions
